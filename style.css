@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+    color: aliceblue;
+}
+#camera{
+    width: 450px;
+    height: 450px;
+    border: 2px solid yellow;
+}
+#result{
+    width: 450px;
+    height: 450px;
+    border: 2px solid yellow;
+}
